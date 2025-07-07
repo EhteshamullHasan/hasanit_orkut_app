@@ -1,1 +1,2 @@
-From openjdk:1.8
+from OpenJDK:17
+workdir target/hasan.jar user/hasan1.jar
